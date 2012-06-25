@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ParsePorjectActivity!</string>
+    <string name="app_name">ParsePorject</string>
+    <string name="userinput">Ingrese su Nombre</string>
+     <string name="userpassword">Ingrese su Password</string>
+      <string name="useremail">Ingrese su Email</string>
+
+</resources>
